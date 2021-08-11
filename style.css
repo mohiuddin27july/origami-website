@@ -1,0 +1,29 @@
+h1
+{
+    color : blue
+}
+
+p
+{
+    color:red
+}
+
+.header
+{
+    background-color: yellow;
+}
+.grid {
+    display: flex; /* or inline-flex */
+  }
+  .grid{
+    flex-wrap:  wrap ;
+  }
+  .grid {
+    justify-content: space-evenly ;
+  }
+body{
+background-color: aqua;
+
+
+
+}
